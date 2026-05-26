@@ -1,5 +1,7 @@
 🚀 Aula de Git & GitHub
 
+Projeto da disciplina de gerenciamento e configurações de sistemas, ADS IFPE Campus Palmares. 
+
 Bem-vindo ao meu repositório de estudos! Este espaço foi criado para documentar meu aprendizado sobre controle de versão e boas práticas de desenvolvimento.
 🧑‍💻 Sobre Mim
 
@@ -32,6 +34,5 @@ git clone https://github.com/adrianohmf/aulagit.git
 
     “A única maneira de aprender uma nova linguagem de programação é escrevendo programas nela.” — Dennis Ritchie
 
-Novo teste
 
 END
